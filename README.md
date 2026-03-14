@@ -24,7 +24,7 @@ Repozitář obsahuje kódy pro dvě hlavní úlohy:
 1. Spusťte **Minecraft: Education Edition**.
 2. Otevřete Code Builder (klávesa **C**).
 3. Vyberte jazyk **Python** nebo jednoduše využijete možnost **Blocks**
-4. Stáhněte si ukoly a mapu z releases a přidejte si je podle video tutoriálu do Minecraftu.
+4. Stáhněte si ukoly a mapu z releases a přidejte si je do Minecraftu.
 5. Ve hře si můžete projít školu a splnit úkoly od NPCs.
 
 https://www.spseol.cz
