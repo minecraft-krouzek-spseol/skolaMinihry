@@ -27,4 +27,9 @@ Repozitář obsahuje kódy pro dvě hlavní úlohy:
 4. Stáhněte si ukoly a mapu z releases a přidejte si je do Minecraftu.
 5. Ve hře si můžete projít školu a splnit úkoly od NPCs.
 
+## Ke stažení
+Hotovou mapu světa a soubory s kódy naleznete v sekci [Releases](https://github.com/minecraft-krouzek-spseol/skolaMinihry/releases/tag/v1.0). 
+1. Stáhněte si soubor `.mcworld` a importujte jej do Minecraft: Education Edition.
+2. Soubory `.mkcd` můžete importovat přímo do Code Builderu.
+
 https://www.spseol.cz
