@@ -4,7 +4,7 @@ Tento repozitář obsahuje Python skripty pro výukovou mapu školy VOŠ a SPŠE
 
 ## Obsah projektu
 
-Repozitář obsahuje kódy pro dvě hlavní úlohy:
+Repozitář obsahuje kódy pro tři úlohy:
 
 ### 1. Oprava školní chodby ("Ukol1-chodba.mkcd")
 * **Cíl:** Vyplnit propadlou podlahu (5x7 bloků) pomocí Agenta.
@@ -15,8 +15,8 @@ Repozitář obsahuje kódy pro dvě hlavní úlohy:
 * **Kontrola:** Skript po spuštění příkazu `/hotovo` provede inspekci konkrétních souřadnic a ověří, zda byl veškerý nepořádek odstraněn.
 
 ### 3. Zavření oken v učebně - ("Ukol3-ucebna.mkcd")
-* **Cíl:** Vyměnit block který nepatří na místo okna sklem.
-* **Kontrola:** Skript po spuštění příkazu `/hotovo` provede inspekci konkrétních souřadnic a ověří, zda byl block nahrazen
+* **Cíl:** Nahradit blok, který na dané místo nepatří, sklem.
+* **Kontrola:** Skript po spuštění příkazu `/hotovo` provede inspekci konkrétních souřadnic a ověří, zda byl blok nahrazen
 
 
 ## Jak projekt použít
@@ -24,7 +24,7 @@ Repozitář obsahuje kódy pro dvě hlavní úlohy:
 1. Spusťte **Minecraft: Education Edition**.
 2. Otevřete Code Builder (klávesa **C**).
 3. Vyberte jazyk **Python** nebo jednoduše využijete možnost **Blocks**
-4. Stáhněte si ukoly a mapu z releases a přidejte si je do Minecraftu.
+4. Stáhněte si úkoly a mapu z releases a přidejte si je do Minecraftu.
 5. Ve hře si můžete projít školu a splnit úkoly od NPCs.
 
 ## Ke stažení
