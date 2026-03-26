@@ -6,11 +6,11 @@ Tento repozitář obsahuje Python skripty pro výukovou mapu školy VOŠ a SPŠE
 
 Repozitář obsahuje kódy pro tři úlohy:
 
-### 1. Oprava školní chodby ("Ukol1-chodba.mkcd")
+### 1. Oprava školní chodby - ("Ukol1-chodba.mkcd")
 * **Cíl:** Vyplnit propadlou podlahu (5x7 bloků) pomocí Agenta.
 * **Kontrola:** Skript automaticky ověřuje zaplnění celé plochy a kontroluje, zda Agent nepolepil bloky mimo určenou oblast.
 
-### 2. Úklid tělocvičny ("Ukol2-telocvicna.mkcd")
+### 2. Úklid tělocvičny - ("Ukol2-telocvicna.mkcd")
 * **Cíl:** Odstranit "míče" (červenou vlnu) rozházené na ploše, na které hráč nesmí sahat rukou.
 * **Kontrola:** Skript po spuštění příkazu `/hotovo` provede inspekci konkrétních souřadnic a ověří, zda byl veškerý nepořádek odstraněn.
 
