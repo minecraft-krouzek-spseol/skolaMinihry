@@ -18,7 +18,7 @@ Repozitář obsahuje kódy pro tři úlohy:
 * **Cíl:** Nahradit blok, který na dané místo nepatří, sklem.
 * **Kontrola:** Skript po spuštění příkazu `/hotovo` provede inspekci konkrétních souřadnic a ověří, zda byl blok nahrazen
 
-
+ 1,5 : 1 měřítko
 ## Jak projekt použít
 
 1. Spusťte **Minecraft: Education Edition**.
